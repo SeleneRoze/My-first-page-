@@ -1,0 +1,80 @@
+body{
+    background-color: #6C22A6;
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+}
+h1{
+    color: #6962AD;background-color: #83C0C1;border: 5px dashed white;text-align: center;
+    font-size: xx-large; padding: 50px; margin: 100px;
+    background-image: url(../Assets/texturas-descargas-gratis-premium.webp);
+}
+
+
+p{ 
+color:#2B4865;
+background-color:#8FE3CF; font-family:Georgia, 'Times New Roman', Times, serif;
+font-weight: 500;
+font-style: normal;
+
+
+}
+h2{
+    background-color: #96E9C6;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: #6962AD 5px dashed; text-align: center; font-weight: 100; font-style: normal;
+
+}
+
+.flex_container{
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap:wrap;
+    gap: 20px;
+}
+
+.flex_container div{
+    widht: 70px;
+    height: 30px;
+    text-align:center;
+    front size: 25px;
+    padding: 5px;
+    
+    }
+
+#f{
+    width: 250px;;
+    height: 250px;; 
+    border: 10px solid #96E9C6;
+    background-image:url(../Assets/0fc8bdc48ddac4df48dc75ef6c732ea4.jpg); background-position: center; background-size: 400px;
+    alt="esta es una imagen de un control de play station dibujado"
+}
+
+#g {
+    width: 250px;;
+    height: 250px;; 
+    border: 10px solid #96E9C6;
+    background-image:url(../Assets/BojackHorseman.webp); background-position: center; 
+    alt="esta es una imagen de Bojack Horseman"
+}
+#h{
+    width: 250px;;
+    height: 250px;; 
+    border: 10px solid #96E9C6;
+    background-image:url(../Assets/wallpapersden.com_rosalia-4k-singer-photoshoot_4200x2800.jpg); background-position:center; background-size: 400px;
+    alt="esta es una imagen de Rosalía"
+}
+
+#i{
+    width: 250px;;
+    height: 250px;; 
+    border: 10px solid #96E9C6;
+    background-image:url(../Assets/HD-wallpaper-anime-perfect-blue-mima-kirigoe.jpg); background-position:center; background-size: 400px;
+    alt="esta es una imagen de Perfect Blue"  
+}
+#j{
+    width: 250px;;
+    height: 250px;; 
+    border: 10px solid #96E9C6;
+    background-image:url(../Assets/wp6888278.webp); background-position:center; background-size: 300px;
+    alt="esta es una imagen neon con videogames"
+ }
