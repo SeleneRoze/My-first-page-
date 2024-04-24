@@ -1,10 +1,17 @@
 body{
     background-color: #6C22A6;
     font-family: Georgia, 'Times New Roman', Times, serif; 
+   
+    .neonderthaw-regular {
+        font-family: "Neonderthaw", cursive;
+        font-weight: 400;
+        font-style: normal;
+      }
+      
 }
 h1{
-    color: #6962AD;background-color: #83C0C1;border: 5px dashed white;text-align: center;
-    font-size: xx-large; padding: 50px; margin: 100px;
+    color: #7266df;background-color: #83C0C1;border: 5px dashed white;text-align: center;
+    font-size: 100px; padding: 50px; margin: 100px; font-family: 'Neonderthaw'; font-weight: 400;
     background-image: url(../Assets/texturas-descargas-gratis-premium.webp);
 }
 
