@@ -9,9 +9,17 @@ body{
       }
       
 }
+
+nav{ color: #f8f8f8; background-color: #aaa2f3;text-align: center;font-size: large ;font-family: 'Courier New', Courier, monospace;
+
+}
+ul{
+    color: #c0e8e9;border-color: #6C22A6;border: 2px dashed rgb(1, 114, 114);background-image: url(../Assets/c7cffb9c5201c91b30c1d93fe5253c77.jpg) ;font-family: fantasy; font: weight 200px; ;
+}
+
 h1{
     color: #7266df;background-color: #83C0C1;border: 5px dashed white;text-align: center;
-    font-size: 100px; padding: 50px; margin: 100px; font-family: 'Neonderthaw'; font-weight: 400;
+    font-size: 100px; padding: 50px; margin: 50px; font-family: 'Neonderthaw'; font-weight: 400;
     background-image: url(../Assets/texturas-descargas-gratis-premium.webp);
 }
 
@@ -40,10 +48,10 @@ h2{
 }
 
 .flex_container div{
-    widht: 70px;
+    width: 70px;
     height: 30px;
     text-align:center;
-    front size: 25px;
+    font-size: 25px;
     padding: 5px;
     
     }
@@ -57,8 +65,8 @@ h2{
 }
 
 #g {
-    width: 250px;;
-    height: 250px;; 
+    width: 250px;
+    height: 250px;
     border: 10px solid #96E9C6;
     background-image:url(../Assets/BojackHorseman.webp); background-position: center; 
     alt="esta es una imagen de Bojack Horseman"
